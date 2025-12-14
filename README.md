@@ -1,0 +1,1 @@
+This project was written in python and simulates the initial conditions of a Taylor-Green Vortex. It then solves for each subsequent timestep to simulate its decay.
